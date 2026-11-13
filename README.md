@@ -4,6 +4,8 @@
 
 VisuAlgorithms הוא אתר לימודי שנבנה ב־Preact. הוא מדגים אלגוריתמי גרפים, חיפוש, מיון ושידוך, וכולל סביבת ניסוי למציאת נתיבים על גבי רשת שניתן לערוך.
 
+**אתר חי:** [idan2021.github.io/VisuAlgorithms](https://idan2021.github.io/VisuAlgorithms/) · **מאגר קוד:** [github.com/idan2021/VisuAlgorithms](https://github.com/idan2021/VisuAlgorithms)
+
 ## תוכן עניינים
 
 - [תכונות](#תכונות)
@@ -100,7 +102,7 @@ npm run preview  # הצגת גרסת הייצור המקומית
 3. ודאו ש־Actions מורשה לפרסם Pages אם GitHub מבקש זאת.
 4. עקבו אחר ה־workflow `Build and deploy VisuAlgorithms`. כתובת האתר תופיע בסיום הפריסה.
 
-כתובת האתר במאגר רגיל תהיה בדרך כלל `https://<owner>.github.io/<repository>/`. עדכונים לענף `main` ייבנו ויפורסמו מחדש אוטומטית.
+האתר הזה מתפרסם ב־[https://idan2021.github.io/VisuAlgorithms/](https://idan2021.github.io/VisuAlgorithms/). עדכונים לענף `main` נבנים ומתפרסמים מחדש אוטומטית.
 
 ## תיעוד שינויים
 
