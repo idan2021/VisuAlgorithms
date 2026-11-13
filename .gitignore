@@ -1,6 +1,9 @@
 node_modules/
 dist/
 coverage/
+.npm-cache/
+.npm-global/
+.npmrc-local
 .DS_Store
 Thumbs.db
 *.log
