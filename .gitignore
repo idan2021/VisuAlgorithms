@@ -4,7 +4,7 @@ coverage/
 .npm-cache/
 .npm-global/
 .npmrc-local
-.gh-config/
+.gh-config*/
 .DS_Store
 Thumbs.db
 *.log
