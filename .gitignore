@@ -1,0 +1,15 @@
+node_modules/
+dist/
+coverage/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+!.env.example
+
+# Drafts used while designing the logo and header preview.
+header-layout-preview*
+logo-concepts.*
+logo-more-concepts.*
+logo-selected.png
